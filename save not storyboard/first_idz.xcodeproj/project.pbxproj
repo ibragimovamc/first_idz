@@ -7,13 +7,54 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+<<<<<<< Updated upstream
+=======
+		5234B9A3279A9CF00076F14E /* CollectionViewCell-map.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5234B9A1279A9CF00076F14E /* CollectionViewCell-map.swift */; };
+		5234B9A4279A9CF00076F14E /* CollectionViewCell-map.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5234B9A2279A9CF00076F14E /* CollectionViewCell-map.xib */; };
+		5234B9A6279AA7B00076F14E /* CollectionViewControllerForMap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5234B9A5279AA7B00076F14E /* CollectionViewControllerForMap.swift */; };
+		524D060927A3FBAF00DEF85B /* MainPage.xib in Resources */ = {isa = PBXBuildFile; fileRef = 52E7E76927A26962001AE196 /* MainPage.xib */; };
+		526DB4C1279C0C8C00213B60 /* ActivityViewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 526DB4BF279C0C8C00213B60 /* ActivityViewViewController.swift */; };
+		526DB4C2279C0C8C00213B60 /* ActivityViewViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 526DB4C0279C0C8C00213B60 /* ActivityViewViewController.xib */; };
+		5274BC5E27A27B0A00FF7DBC /* TableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 52E7E76827A26962001AE196 /* TableViewCell.xib */; };
+		5274BC5F27A27B0D00FF7DBC /* TableViewActivitesPage.xib in Resources */ = {isa = PBXBuildFile; fileRef = 52E7E76B27A26962001AE196 /* TableViewActivitesPage.xib */; };
+		5274BC6027A27B0F00FF7DBC /* MapViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 52E7E76527A2695E001AE196 /* MapViewController.xib */; };
+>>>>>>> Stashed changes
 		527D8E8C2753785E004A1FD1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 527D8E8B2753785E004A1FD1 /* AppDelegate.swift */; };
 		527D8E8E2753785E004A1FD1 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 527D8E8D2753785E004A1FD1 /* SceneDelegate.swift */; };
 		527D8E902753785E004A1FD1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 527D8E8F2753785E004A1FD1 /* ViewController.swift */; };
 		527D8E932753785E004A1FD1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 527D8E912753785E004A1FD1 /* Main.storyboard */; };
 		527D8E9527537860004A1FD1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 527D8E9427537860004A1FD1 /* Assets.xcassets */; };
 		527D8E9827537860004A1FD1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 527D8E9627537860004A1FD1 /* LaunchScreen.storyboard */; };
+<<<<<<< Updated upstream
+=======
+		528BE32C27A3DC0000164A55 /* profileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 528BE32A27A3DC0000164A55 /* profileViewController.swift */; };
+		528BE32D27A3DC0000164A55 /* profileViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 528BE32B27A3DC0000164A55 /* profileViewController.xib */; };
+		52C5A2A5279965400050A50C /* Model.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 52C5A2A3279965400050A50C /* Model.xcdatamodeld */; };
+		52C5A2A7279966430050A50C /* FEFUCoreDataContainer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52C5A2A6279966430050A50C /* FEFUCoreDataContainer.swift */; };
+		52C5A2AB279972C40050A50C /* CollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52C5A2AA279972C40050A50C /* CollectionViewCell.swift */; };
+		52DCB1BB27A02169002E4F2E /* ViewControllerForRegistetry.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52DCB1BA27A02169002E4F2E /* ViewControllerForRegistetry.swift */; };
+		52DCB1BD27A028A9002E4F2E /* Models.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52DCB1BC27A028A9002E4F2E /* Models.swift */; };
+		52E7E76227A2695A001AE196 /* AuthController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52E7E76027A2695A001AE196 /* AuthController.swift */; };
+		52E7E76327A2695A001AE196 /* VCButton_to_main_page.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52E7E76127A2695A001AE196 /* VCButton_to_main_page.swift */; };
+		52E7E76627A2695E001AE196 /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52E7E76427A2695E001AE196 /* MapViewController.swift */; };
+		52E7E76D27A26963001AE196 /* TableViewActivitesPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52E7E76C27A26962001AE196 /* TableViewActivitesPage.swift */; };
+		52E7E76E27A26963001AE196 /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52E7E76727A26962001AE196 /* TableViewCell.swift */; };
+		52E7E76F27A26963001AE196 /* MainPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52E7E76A27A26962001AE196 /* MainPage.swift */; };
+>>>>>>> Stashed changes
 /* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		524D060527A3E8BF00DEF85B /* Embed Frameworks */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+			);
+			name = "Embed Frameworks";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
 		527D8E882753785E004A1FD1 /* first_idz.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = first_idz.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -24,6 +65,26 @@
 		527D8E9427537860004A1FD1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		527D8E9727537860004A1FD1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		527D8E9927537860004A1FD1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+<<<<<<< Updated upstream
+=======
+		528BE32A27A3DC0000164A55 /* profileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = profileViewController.swift; sourceTree = "<group>"; };
+		528BE32B27A3DC0000164A55 /* profileViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = profileViewController.xib; sourceTree = "<group>"; };
+		52C5A2A4279965400050A50C /* Model.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Model.xcdatamodel; sourceTree = "<group>"; };
+		52C5A2A6279966430050A50C /* FEFUCoreDataContainer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FEFUCoreDataContainer.swift; sourceTree = "<group>"; };
+		52C5A2AA279972C40050A50C /* CollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewCell.swift; sourceTree = "<group>"; };
+		52DCB1BA27A02169002E4F2E /* ViewControllerForRegistetry.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerForRegistetry.swift; sourceTree = "<group>"; };
+		52DCB1BC27A028A9002E4F2E /* Models.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Models.swift; sourceTree = "<group>"; };
+		52E7E76027A2695A001AE196 /* AuthController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthController.swift; sourceTree = "<group>"; };
+		52E7E76127A2695A001AE196 /* VCButton_to_main_page.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VCButton_to_main_page.swift; sourceTree = "<group>"; };
+		52E7E76427A2695E001AE196 /* MapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
+		52E7E76527A2695E001AE196 /* MapViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MapViewController.xib; sourceTree = "<group>"; };
+		52E7E76727A26962001AE196 /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
+		52E7E76827A26962001AE196 /* TableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = TableViewCell.xib; sourceTree = "<group>"; };
+		52E7E76927A26962001AE196 /* MainPage.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainPage.xib; sourceTree = "<group>"; };
+		52E7E76A27A26962001AE196 /* MainPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainPage.swift; sourceTree = "<group>"; };
+		52E7E76B27A26962001AE196 /* TableViewActivitesPage.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = TableViewActivitesPage.xib; sourceTree = "<group>"; };
+		52E7E76C27A26962001AE196 /* TableViewActivitesPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewActivitesPage.swift; sourceTree = "<group>"; };
+>>>>>>> Stashed changes
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,11 +98,40 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		524D05FE27A3E88B00DEF85B /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		527D8E7F2753785E004A1FD1 = {
 			isa = PBXGroup;
 			children = (
+<<<<<<< Updated upstream
+=======
+				528BE32A27A3DC0000164A55 /* profileViewController.swift */,
+				528BE32B27A3DC0000164A55 /* profileViewController.xib */,
+				5234B9A5279AA7B00076F14E /* CollectionViewControllerForMap.swift */,
+				5234B9A1279A9CF00076F14E /* CollectionViewCell-map.swift */,
+				5234B9A2279A9CF00076F14E /* CollectionViewCell-map.xib */,
+				52C5A2AA279972C40050A50C /* CollectionViewCell.swift */,
+				52C5A2A6279966430050A50C /* FEFUCoreDataContainer.swift */,
+				52C5A2A3279965400050A50C /* Model.xcdatamodeld */,
+				52E7E76027A2695A001AE196 /* AuthController.swift */,
+				52E7E76127A2695A001AE196 /* VCButton_to_main_page.swift */,
+				52E7E76427A2695E001AE196 /* MapViewController.swift */,
+				52E7E76527A2695E001AE196 /* MapViewController.xib */,
+				52E7E76A27A26962001AE196 /* MainPage.swift */,
+				52E7E76927A26962001AE196 /* MainPage.xib */,
+				52E7E76C27A26962001AE196 /* TableViewActivitesPage.swift */,
+				52E7E76B27A26962001AE196 /* TableViewActivitesPage.xib */,
+				52E7E76727A26962001AE196 /* TableViewCell.swift */,
+				52E7E76827A26962001AE196 /* TableViewCell.xib */,
+>>>>>>> Stashed changes
 				527D8E8A2753785E004A1FD1 /* first_idz */,
 				527D8E892753785E004A1FD1 /* Products */,
+				524D05FE27A3E88B00DEF85B /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -77,6 +167,7 @@
 				527D8E842753785E004A1FD1 /* Sources */,
 				527D8E852753785E004A1FD1 /* Frameworks */,
 				527D8E862753785E004A1FD1 /* Resources */,
+				524D060527A3E8BF00DEF85B /* Embed Frameworks */,
 			);
 			buildRules = (
 			);
@@ -111,6 +202,8 @@
 				Base,
 			);
 			mainGroup = 527D8E7F2753785E004A1FD1;
+			packageReferences = (
+			);
 			productRefGroup = 527D8E892753785E004A1FD1 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -126,8 +219,19 @@
 			buildActionMask = 2147483647;
 			files = (
 				527D8E9827537860004A1FD1 /* LaunchScreen.storyboard in Resources */,
+				5274BC5E27A27B0A00FF7DBC /* TableViewCell.xib in Resources */,
 				527D8E9527537860004A1FD1 /* Assets.xcassets in Resources */,
+<<<<<<< Updated upstream
 				527D8E932753785E004A1FD1 /* Main.storyboard in Resources */,
+=======
+				528BE32D27A3DC0000164A55 /* profileViewController.xib in Resources */,
+				5274BC6027A27B0F00FF7DBC /* MapViewController.xib in Resources */,
+				524D060927A3FBAF00DEF85B /* MainPage.xib in Resources */,
+				5234B9A4279A9CF00076F14E /* CollectionViewCell-map.xib in Resources */,
+				527D8E932753785E004A1FD1 /* Main.storyboard in Resources */,
+				526DB4C2279C0C8C00213B60 /* ActivityViewViewController.xib in Resources */,
+				5274BC5F27A27B0D00FF7DBC /* TableViewActivitesPage.xib in Resources */,
+>>>>>>> Stashed changes
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,6 +242,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+<<<<<<< Updated upstream
+=======
+				528BE32C27A3DC0000164A55 /* profileViewController.swift in Sources */,
+				52DCB1BB27A02169002E4F2E /* ViewControllerForRegistetry.swift in Sources */,
+				52E7E76E27A26963001AE196 /* TableViewCell.swift in Sources */,
+				52E7E76227A2695A001AE196 /* AuthController.swift in Sources */,
+>>>>>>> Stashed changes
 				527D8E902753785E004A1FD1 /* ViewController.swift in Sources */,
 				527D8E8C2753785E004A1FD1 /* AppDelegate.swift in Sources */,
 				527D8E8E2753785E004A1FD1 /* SceneDelegate.swift in Sources */,

@@ -376,7 +376,11 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="ABM-to-LGD" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
+<<<<<<< Updated upstream
             <point key="canvasLocation" x="2477.5999999999999" y="849.7536945812808"/>
+=======
+            <point key="canvasLocation" x="1938" y="939"/>
+>>>>>>> Stashed changes
         </scene>
         <!--MAIN-->
         <scene sceneID="Zva-ap-ed6">
@@ -395,6 +399,12 @@
             <point key="canvasLocation" x="675" y="119"/>
         </scene>
     </scenes>
+<<<<<<< Updated upstream
+=======
+    <inferredMetricsTieBreakers>
+        <segue reference="FvC-fs-Nu9"/>
+    </inferredMetricsTieBreakers>
+>>>>>>> Stashed changes
     <resources>
         <image name="27912 1" width="343" height="304"/>
         <image name="ACTIVITY" width="88" height="9"/>
